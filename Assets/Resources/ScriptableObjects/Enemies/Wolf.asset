@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e80e2e6a18ba4aa4aaf2f464f7a6bda9, type: 3}
+  m_Name: Wolf
+  m_EditorClassIdentifier: 
+  actorName: Wolf
+  baseHP: 100
+  currentHP: 100
+  strength: 10
+  defence: 5
+  magic: 0
+  spirit: 5
+  speed: 30
+  sprite: {fileID: 21300012, guid: 6744179c0a5207e4383b8560b55fd4e6, type: 3}

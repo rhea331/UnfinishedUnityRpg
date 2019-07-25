@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 061dd77cce31db64b9d6a736c855d6f0, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  spellName: Fireball
+  id: 1
+  power: 20
+  manaCost: 40
+  totalTargets: 0
+  targetsAllies: 0
+  sprite: {fileID: 21300000, guid: 3b3ad23773eeb3042844f50b7f15eecc, type: 3}
+  rangedProjectile: {fileID: 1839045550254200, guid: db38f6ddc90bab445a104154a171b75c,
+    type: 2}
